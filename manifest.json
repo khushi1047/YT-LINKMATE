@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "YTLinkMate - YouTube Description Link Tracker",
+  "version": "1.0",
+  "description": "Track and recover YouTube description links you clicked.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
