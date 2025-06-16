@@ -60,11 +60,4 @@ YTLinkMate/
 
 ---
 
-## 💻 Screenshots
 
-![YTLinkMate Screenshot]("C:\Users\kushi\Pictures\Screenshots\Screenshot 2025-06-16 103144.png")
----
-
-## 📝 Author
-**Khushi Bansal**
-A professional Chrome extension developer focused on solving real user frustrations with innovative tools.
