@@ -62,7 +62,7 @@ YTLinkMate/
 
 ## 💻 Screenshots
 
-![YTLinkMate Screenshot](image.png)
+![YTLinkMate Screenshot]("C:\Users\kushi\Pictures\Screenshots\Screenshot 2025-06-16 103144.png")
 ---
 
 ## 📝 Author
